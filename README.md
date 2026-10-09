@@ -4,8 +4,8 @@
 
 | 📝 我的部落格文章 | 📷 我的攝影照片牆 | 📚 雲端電子書庫 |
 | :---: | :---: | :---: |
-| [![部落格](https://uxwing.com)](./posts/) | [![照片](https://uxwing.com)](./photos/) | [![書籍](https://uxwing.com)](./books/) |
-| [點此進入文章列表](./posts/) | [點此觀看照片展示](./photos/) | [點此瀏覽電子書](./books/) |
+| [![部落格](https://uxwing.com)](./posts/index.md) | [![照片](https://uxwing.com)](./photos/index.md) | [![書籍](https://uxwing.com)](./books/index.md) |
+| [點此進入文章列表](./posts/index.md) | [點此觀看照片展示](./photos/index.md) | [點此瀏覽電子書](./books/index.md) |
 
 ---
 *本站所有內容皆有本地硬碟 Word 備份，可隨時離線閱讀。*
