@@ -4,7 +4,7 @@
 
 | 📝 我的部落格文章 | 📷 我的攝影照片牆 | 📚 雲端電子書庫 |
 | :---: | :---: | :---: |
-| [📝](./posts/index.md) | [📷](./photos/index.md) | [📚](./books/index.md) |
+| [<span style="font-size: 3rem;">📝</span>](./posts/index.md) | [<span style="font-size: 3rem;">📷</span>](./photos/index.md) | [<span style="font-size: 3rem;">📚</span>](./books/index.md) |
 | [點此進入文章列表](./posts/index.md) | [點此觀看照片展示](./photos/index.md) | [點此瀏覽電子書](./books/index.md) |
 
 ---
