@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "posts/readme.md.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "readme.md"
             }
           }
         ]
@@ -191,8 +191,14 @@
   },
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
-    "dsc3.jpg",
+    "photos/readme.md.md",
+    "books/readme.md.md",
     "README.md",
+    "posts/readme.md.md",
+    "books",
+    "photos",
+    "posts",
+    "dsc3.jpg",
     "richsabc.github.io/README.md",
     "richsabc.github.io/Books",
     "richsabc.github.io/新建文件夹",
