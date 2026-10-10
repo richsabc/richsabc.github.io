@@ -1,9 +1,24 @@
-# 📝 歡迎來到我的博客文章列表
+# 📝 我的博客文章列表
 
-這裡記錄了我的日常隨筆與生活點滴：
+以下是系統為您自動整理的最新文章：
+# 📝 我的博客文章列表
 
-### 📅 2026 年文章
-* 📄 [深圳中心区夜色---博客测试短文](./深圳中心区夜色---博客测试短文.md)
+以下是系統為您自動整理的最新文章：
+
+{% for post in site.static_files %}
+  {% if post.path contains '/posts/' and post.extname == '.md' and post.name != 'index.md' %}
+    * 📄 [{{ post.basename }}]({{ site.baseurl }}{{ post.path }})
+  {% endif %}
+{% endfor %}
+
+---
+[⬅️ 返回網站大首頁](../README.md)
+
+{% for post in site.static_files %}
+  {% if post.path contains '/posts/' and post.extname == '.md' and post.name != 'index.md' %}
+    * 📄 [{{ post.basename }}]({{ site.baseurl }}{{ post.path }})
+  {% endif %}
+{% endfor %}
 
 ---
 [⬅️ 返回網站大首頁](../README.md)

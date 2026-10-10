@@ -1,9 +1,12 @@
 # 📚 歡迎來到我的雲端電子書庫
 
-這裡存放了我喜愛的電子書與文獻資料，點擊下方連結即可直接線上閱讀或下載到電腦：
+以下是系統為您自動整理的實體藏書，點擊即可下載：
 
-### 📖 精選藏書
-* 📥 [點我下載 / 線上閱讀：路加福音注释 (.PDF)](./路加福音注释.pdf)
+{% for file in site.static_files %}
+  {% if file.path contains '/books/' and file.name != 'index.md' %}
+    * 📥 [點我下載：{{ file.basename }}]({{ site.baseurl }}{{ file.path }})
+  {% endif %}
+{% endfor %}
 
 ---
 [⬅️ 返回網站大首頁](../README.md)
