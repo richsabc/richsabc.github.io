@@ -23,12 +23,14 @@
             "id": "42ff1699ea323144",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "posts/xhgka.jpg"
+                "file": "posts/深圳中心区夜色---博客测试短文.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "xhgka"
+              "icon": "lucide-file",
+              "title": "深圳中心区夜色---博客测试短文"
             }
           }
         ],
@@ -200,12 +202,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "e2e8d042f4e771e1",
+  "active": "42ff1699ea323144",
   "lastOpenFiles": [
-    "posts/jjyb.jpg",
-    "posts/深圳中心区夜色---博客测试短文.md",
     "posts/深圳中心区夜色---博客测试短文.pdf",
+    "posts/深圳中心区夜色---博客测试短文.md",
     "posts/xhgka.jpg",
+    "posts/jjyb.jpg",
     "_config.yml.md",
     "posts/index.md.md",
     "photos/DSCAB.jpg",
