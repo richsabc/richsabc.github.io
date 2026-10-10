@@ -1,7 +1,6 @@
-# 雲端自動化工廠設定
 plugins:
   - jekyll-optional-front-matter
   - jekyll-readme-index
 
-# 讓雲端自動讀取你的資料夾並列出檔案
-include: [posts, books, photos]
+# 告訴雲端工廠，這四個資料夾裡的所有檔案和照片都要完整搬上網！
+include: [posts, books, photos, images]

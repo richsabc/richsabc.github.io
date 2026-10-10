@@ -11,6 +11,30 @@
             "id": "46b938a6e257d302",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "images/jjyb.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "jjyb"
+            }
+          },
+          {
+            "id": "42ff1699ea323144",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/xhgka.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "xhgka"
+            }
+          },
+          {
+            "id": "89e9183188b3e4b2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "posts/深圳中心区夜色---博客测试短文.md",
@@ -21,7 +45,8 @@
               "title": "深圳中心区夜色---博客测试短文"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,27 +214,29 @@
       "bases:新建数据库": false
     }
   },
-  "active": "46b938a6e257d302",
+  "active": "89e9183188b3e4b2",
   "lastOpenFiles": [
-    "posts/index.md.md",
+    "_config.yml.md",
+    "DSC_0211_f.jpg",
+    "images/zxq.jpg",
+    "images/xhgka.jpg",
+    "images/jjyb.jpg",
     "posts/深圳中心区夜色---博客测试短文.md",
+    "images",
+    "posts/index.md.md",
     "photos/index.md.md",
     "books/index.md.md",
-    "_config.yml.md",
     "photos/DSCAD.jpg",
     "photos/DSCAC.jpg",
     "photos/DSCAB.jpg",
     "photos/DSCAA.jpg",
     "books/路加福音注释.pdf",
     "罗马书注释加尔文文集 ((法)约翰·加尔文 著,赵中辉 任以撒 宋华忠 译) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "zxq.jpg",
-    "xhgka.jpg",
-    "jjyb.jpg",
     "README.md",
     "books",
     "photos",
     "posts",
-    "dsc3.jpg",
+    "images/dsc3.jpg",
     "richsabc.github.io/README.md",
     "richsabc.github.io/Books",
     "richsabc.github.io/新建文件夹",
