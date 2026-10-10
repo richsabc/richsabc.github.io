@@ -11,12 +11,14 @@
             "id": "46b938a6e257d302",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "posts/jjyb.jpg"
+                "file": "posts/深圳中心区夜色---博客测试短文.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "jjyb"
+              "icon": "lucide-file",
+              "title": "深圳中心区夜色---博客测试短文"
             }
           },
           {
@@ -204,10 +206,13 @@
   },
   "active": "42ff1699ea323144",
   "lastOpenFiles": [
-    "posts/深圳中心区夜色---博客测试短文.pdf",
-    "posts/深圳中心区夜色---博客测试短文.md",
-    "posts/xhgka.jpg",
+    "xhgka.jpg",
+    "jjyb.jpg",
+    "zxq.jpg",
     "posts/jjyb.jpg",
+    "posts/深圳中心区夜色---博客测试短文.md",
+    "posts/深圳中心区夜色---博客测试短文.pdf",
+    "posts/xhgka.jpg",
     "_config.yml.md",
     "posts/index.md.md",
     "photos/DSCAB.jpg",
@@ -219,7 +224,6 @@
     "books/index.md.md",
     "photos/DSCAD.jpg",
     "photos/DSCAC.jpg",
-    "photos/DSCAA.jpg",
     "books/路加福音注释.pdf",
     "罗马书注释加尔文文集 ((法)约翰·加尔文 著,赵中辉 任以撒 宋华忠 译) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "README.md",
@@ -229,7 +233,6 @@
     "richsabc.github.io/README.md",
     "richsabc.github.io/Books",
     "richsabc.github.io/新建文件夹",
-    "richsabc.github.io/Photos",
-    "DSC_0294.jpg"
+    "richsabc.github.io/Photos"
   ]
 }
