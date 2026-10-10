@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "images/jjyb.jpg"
+                "file": "photos/jjyb.jpg"
               },
               "icon": "lucide-image",
               "title": "jjyb"
@@ -25,7 +25,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "images/xhgka.jpg"
+                "file": "photos/xhgka.jpg"
               },
               "icon": "lucide-image",
               "title": "xhgka"
@@ -217,18 +217,19 @@
   "active": "89e9183188b3e4b2",
   "lastOpenFiles": [
     "_config.yml.md",
-    "DSC_0211_f.jpg",
-    "images/zxq.jpg",
-    "images/xhgka.jpg",
-    "images/jjyb.jpg",
+    "photos/DSCAB.jpg",
     "posts/深圳中心区夜色---博客测试短文.md",
+    "photos/xhgka.jpg",
+    "photos/dsc3.jpg",
+    "DSC_0211_f.jpg",
+    "photos/zxq.jpg",
+    "photos/jjyb.jpg",
     "images",
     "posts/index.md.md",
     "photos/index.md.md",
     "books/index.md.md",
     "photos/DSCAD.jpg",
     "photos/DSCAC.jpg",
-    "photos/DSCAB.jpg",
     "photos/DSCAA.jpg",
     "books/路加福音注释.pdf",
     "罗马书注释加尔文文集 ((法)约翰·加尔文 著,赵中辉 任以撒 宋华忠 译) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
@@ -236,7 +237,6 @@
     "books",
     "photos",
     "posts",
-    "images/dsc3.jpg",
     "richsabc.github.io/README.md",
     "richsabc.github.io/Books",
     "richsabc.github.io/新建文件夹",
