@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/深圳中心区夜色---博客测试短文.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "深圳中心区夜色---博客测试短文"
+              "title": "README"
             }
           }
         ]
@@ -193,12 +193,12 @@
   },
   "active": "46b938a6e257d302",
   "lastOpenFiles": [
+    "posts/深圳中心区夜色---博客测试短文.md",
+    "README.md",
+    "posts/index.md.md",
     "0b6e7bc54e51d6e1f7e8f46a5d8f16f1_MD5.jpg",
     "1cd3f50c54fcefc34a8adf50c4141526_MD5.jpg",
     "52d8ca3479445be47b41499d401657d4_MD5.jpg",
-    "posts/深圳中心区夜色---博客测试短文.md",
-    "posts/index.md.md",
-    "README.md",
     "posts/jjyb.jpg",
     "posts/深圳中心区夜色---博客测试短文.pdf",
     "posts/xhgka.jpg",
