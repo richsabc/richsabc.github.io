@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "jjyb.jpg"
+                "file": "posts/jjyb.jpg"
               },
               "icon": "lucide-image",
               "title": "jjyb"
@@ -23,14 +23,12 @@
             "id": "42ff1699ea323144",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "posts/深圳中心区夜色---博客测试短文.md",
-                "mode": "source",
-                "source": true
+                "file": "posts/xhgka.jpg"
               },
-              "icon": "lucide-file",
-              "title": "深圳中心区夜色---博客测试短文"
+              "icon": "lucide-image",
+              "title": "xhgka"
             }
           }
         ],
@@ -202,18 +200,18 @@
       "bases:新建数据库": false
     }
   },
-  "active": "42ff1699ea323144",
+  "active": "e2e8d042f4e771e1",
   "lastOpenFiles": [
-    "posts/深圳中心区夜色---博客测试短文.pdf",
+    "posts/jjyb.jpg",
     "posts/深圳中心区夜色---博客测试短文.md",
-    "xhgka.jpg",
-    "jjyb.jpg",
+    "posts/深圳中心区夜色---博客测试短文.pdf",
+    "posts/xhgka.jpg",
     "_config.yml.md",
     "posts/index.md.md",
     "photos/DSCAB.jpg",
     "photos/dsc3.jpg",
     "DSC_0211_f.jpg",
-    "zxq.jpg",
+    "posts/zxq.jpg",
     "images",
     "photos/index.md.md",
     "books/index.md.md",
