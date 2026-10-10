@@ -1,16 +1,9 @@
-# 📝 我的博客文章列表
+# 📝 歡迎來到我的博客文章列表
 
-以下是系統為您自動整理的最新文章：
+這裡記錄了我的日常隨筆與生活點滴：
 
-{% for post in site.static_files %}
-  {% if post.path contains '/posts/' %}
-    {% if post.extname == '.md' %}
-      {% unless post.path contains 'index.md' %}
-* 📄 [{{ post.basename }}]({{ site.baseurl }}{{ post.path }})
-      {% endunless %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
+### 📅 2026 年文章
+* 📄 [2026-10-09 - 我的第一篇圖文網誌](./2026-10-09-我的第一篇圖文網誌.md)
 
 ---
 [⬅️ 返回網站大首頁](../README.md)
