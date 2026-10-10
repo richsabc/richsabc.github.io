@@ -1,0 +1,11 @@
+
+---
+layout: default
+---
+<article>
+  <h1>{{ page.title }}</h1>
+  {% if page.date %}
+    <p class="date">{{ page.date | date: "%Y-%m-%d" }}</p>
+  {% endif %}
+  {{ content }}
+</article>
