@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "posts/jjyb.jpg"
+                "file": "jjyb.jpg"
               },
               "icon": "lucide-image",
               "title": "jjyb"
@@ -25,7 +25,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "posts/xhgka.jpg"
+                "file": "xhgka.jpg"
               },
               "icon": "lucide-image",
               "title": "xhgka"
@@ -216,15 +216,15 @@
   },
   "active": "89e9183188b3e4b2",
   "lastOpenFiles": [
-    "posts/jjyb.jpg",
+    "jjyb.jpg",
     "posts/深圳中心区夜色---博客测试短文.md",
-    "posts/index.md.md",
     "_config.yml.md",
+    "posts/index.md.md",
     "photos/DSCAB.jpg",
-    "posts/xhgka.jpg",
+    "xhgka.jpg",
     "photos/dsc3.jpg",
     "DSC_0211_f.jpg",
-    "posts/zxq.jpg",
+    "zxq.jpg",
     "images",
     "photos/index.md.md",
     "books/index.md.md",
