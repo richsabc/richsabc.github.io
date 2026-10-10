@@ -2,6 +2,7 @@
 ---
 title: 香港摄影图文测试
 date: 2026-10-10
+permalink: /photos/hong-kong-test/
 ---
 
 这是我的一篇摄影图文测试。
